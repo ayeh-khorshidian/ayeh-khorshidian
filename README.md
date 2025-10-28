@@ -17,12 +17,12 @@ Integrative genomics and molecular bioinformatics — focusing on **genome organ
 
 **Johns Hopkins University**, Baltimore, MD, USA  
 *Master of Science, Individualized Genomics and Health* (Aug 2023 – May 2025)  
-Minor: Genomics • **GPA:** 3.40/4.00  
+Minor: Genomics  
 **Independent Research Project:** *De Novo Telomere-to-Telomere Genome Assembly of Two* *Caenorhabditis* *Species (sp.27 and sp.30)* — *Grade: A*
 
 **Gonbad Kavous University**, Golestan, IR  
 *Bachelor of Science, Biology* (Aug 2018 – Apr 2023)  
-Minor: Marine Biology • **GPA:** 3.42/4.00 (Ranked 3rd of 30)  
+Minor: Marine Biology  
 **Thesis:** *Gene Expression Responses to Microplastic Exposure in* *Rutilus caspicus* — *Grade: 20/20 (A+)*
 
 ---
@@ -41,7 +41,7 @@ Minor: Marine Biology • **GPA:** 3.42/4.00 (Ranked 3rd of 30)
 - Extracted genomic DNA for **long-read sequencing** (Nanodrop, Qubit, TapeStation).  
 - Supported lab operations and **trained undergraduates**.
 
-**Research Trainee – Trilateral Institutional Collaboration**, *Parallel Genome Center, Noor Medical & Genetics Lab, Amirabad Lab*, Tehran, IR  
+**Research Trainee – Trilateral Institutional Collaboration**, Tehran, IR  
 *Oct 2021 – Jan 2023* (Part-time)  
 - Coordinated **cross-institutional CMV antiviral resistance** studies.  
 - Conducted **PCR, WES/Sanger** data analysis, and variant interpretation.  
