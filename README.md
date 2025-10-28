@@ -9,7 +9,7 @@
 ---
 
 ## 🧬 Research Interests
-Integrative genomics and molecular bioinformatics, focusing on genome organization, regulatory and structural variation, and their roles in gene expression, evolution, and human disease.
+Integrative genomics and molecular bioinformatics — focusing on **genome organization, regulatory and structural variation**, and their impact on **gene expression, evolution, and human disease**.
 
 ---
 
@@ -31,41 +31,41 @@ Minor: Marine Biology • **GPA:** 3.42/4.00 (Ranked 3rd of 30)
 
 **Volunteer Bioinformaticist – Mason Lab**, *Weill Cornell Medicine* (Remote)  
 *Sep 2025 – Present*  
-- Performed single-cell ligand–receptor interaction analysis using CellPhoneDB and NicheNet.  
-- Processed RNA-seq data with metadata to identify conserved and sex-specific signaling responses.  
-- Investigating the effects of spaceflight on immune cell communication in astronauts.
+- Performed single-cell ligand–receptor interaction analysis using **CellPhoneDB** and **NicheNet**.  
+- Processed **RNA-seq** data to identify conserved and sex-specific signaling responses.  
+- Investigating the effects of **spaceflight on immune cell communication** in astronauts.
 
 **Research Technologist – Andersen Lab**, *Johns Hopkins University*  
 *Dec 2023 – July 2025*  
 - Cultured and maintained *Caenorhabditis* strains; performed large-scale propagation.  
-- Extracted genomic DNA for long-read sequencing and quality control using Nanodrop, Qubit, TapeStation.  
-- Supported lab operations and undergraduate training.
+- Extracted genomic DNA for **long-read sequencing** (Nanodrop, Qubit, TapeStation).  
+- Supported lab operations and **trained undergraduates**.
 
 **Research Trainee – Trilateral Institutional Collaboration**, *Parallel Genome Center, Noor Medical & Genetics Lab, Amirabad Lab*, Tehran, IR  
 *Oct 2021 – Jan 2023* (Part-time)  
-- Coordinated cross-institutional CMV antiviral resistance studies.  
-- Performed PCR, WES/Sanger data analysis, and variant interpretation.  
-- Developed personalized treatment strategies for population-level variant profiling.
+- Coordinated **cross-institutional CMV antiviral resistance** studies.  
+- Conducted **PCR, WES/Sanger** data analysis, and variant interpretation.  
+- Developed **personalized treatment strategies** for variant profiling.
 
 **Research Intern – Epigenetic Lab**, *Isfahan Cardiovascular Research Institute*  
 *Feb 2020 – Feb 2021*  
-- Investigated DNA methylation and epigenetic effects of lifestyle/nutrition in twins.  
-- Assisted in sequencing experiments to assess genetic/environmental interactions.
+- Studied **DNA methylation** and lifestyle/nutrition effects in twins.  
+- Assisted in sequencing experiments exploring **genetic–environmental interactions**.
 
 ---
 
 ## 🧫 Bioinformatics & Laboratory Skills
 
-**Wet Lab Techniques:**  
-Genomic DNA & RNA Extraction • PCR • CRISPR Gene Editing • Western Blotting • Plasmid Preparation • Mammalian Cell Culture • Nucleic Acid/Protein Quantification  
+**🧪 Wet Lab Techniques:**  
+Genomic DNA/RNA Extraction • PCR • CRISPR Gene Editing • Western Blot • Plasmid Prep • Mammalian Cell Culture • Nucleic Acid/Protein Quantification  
 
-**Bioinformatics Tools:**  
+**💻 Bioinformatics Tools:**  
 FASTQC • Trimmomatic • Flye • Medaka • Sniffles2 • MUMmer4 • FreeBayes • BUSCO • OrthoFinder • Galaxy • Gene Ontology • KEGG • CellPhoneDB • NicheNet  
 
-**Databases & Resources:**  
+**📚 Databases & Resources:**  
 NCBI • Ensembl • UCSC Genome Browser • UniProt • OMIM • GEO • BioMart • Ensembl Tools  
 
-**Programming & Data Analysis:**  
+**📊 Programming & Data Analysis:**  
 Python • R • SQL • Unix
 
 ---
@@ -84,19 +84,40 @@ Python • R • SQL • Unix
 
 **Khorshidian A\***, Letafati A, Khodadoust E, Heidary Z, Mohajeri K, Chalabiani S. (2022).  
 *Severity and prevalence of COVID-19 infection among patients with respiratory symptoms and a history of four doses of vaccination.*  
-Presented at the **6th International Congress of Biomedicine (ICB)**, Tehran, IR *(virtual due to COVID-19).*
+📍 *6th International Congress of Biomedicine (ICB)*, Tehran, IR *(virtual due to COVID-19).*
 
 ---
 
 ## 🌱 Currently Working On
-- Single-cell RNA-seq analysis of *Caenorhabditis* species.  
-- Comparative genomics and telomere-to-telomere genome assembly.  
-- Bioinformatics pipelines for integrative multi-omics studies.
+- Single-cell RNA-seq analysis of *Caenorhabditis* species  
+- Comparative genomics and telomere-to-telomere assembly  
+- Integrative multi-omics bioinformatics pipelines  
+
+---
+
+## 🧑‍🏫 Teaching Experience
+
+**Lecturer – ZistFanLab Educational Center**, Tehran, IR  
+*Aug 2022 – May 2023 (Part-time)*  
+- Delivered online lectures to undergraduate students on **PCR techniques** and their practical molecular biology applications.  
+- Developed **course materials and instructional resources** for bioinformatics and genomic data analysis.
+
+**Teaching Assistant – Gonbad Kavous University**, Golestan, IR  
+*Dec 2022 – Apr 2023*  
+- Assisted faculty in conducting **genetics and molecular biology lab sessions**.  
+- Reviewed lab notebooks, graded exams, and ensured **compliance with experimental protocols and safety standards**.
+
+---
+
+## 🏅 Honors and Awards
+
+- **Top Undergraduate Research Student**, Gonbad Kavous University, IR (2021–2023)
 
 ---
 
 ## 💬 Let's Connect
-I’m passionate about exploring molecular mechanisms through computational biology and data-driven research.  
+
+I’m passionate about exploring **molecular mechanisms through computational biology and data-driven research**.  
 Feel free to reach out for collaboration or discussion!
 
 📧 [Khorshidian.ayeh@gmail.com](mailto:Khorshidian.ayeh@gmail.com)  
