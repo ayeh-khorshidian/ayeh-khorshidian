@@ -1,4 +1,4 @@
-# 👩‍🔬 Ayéh Khorshidian
+# 👩‍🔬 Ayeh Khorshidian
 ![](https://github.com/ayeh-khorshidian/ayeh-khorshidian/blob/main/welcome1.png?raw=true)
 **Graduate Researcher | Genomics & Bioinformatics | Johns Hopkins University**
 
