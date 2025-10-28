@@ -122,3 +122,14 @@ Feel free to reach out for collaboration or discussion!
 
 📧 [Khorshidian.ayeh@gmail.com](mailto:Khorshidian.ayeh@gmail.com)  
 🔗 [GitHub Profile](https://github.com/ayeh-khorshidian) • [LinkedIn](https://www.linkedin.com/in/ayah-khorshidian)
+
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeh-khorshidian&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayeh-khorshidian&show_icons=true&theme=tokyonight" alt="Ayeh Khorshidian's GitHub Stats" />
+</p>
+
