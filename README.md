@@ -1,5 +1,5 @@
 # 👩‍🔬 Ayeh Khorshidian
-![](https://github.com/ayeh-khorshidian/ayeh-khorshidian/blob/main/welcome1.png?raw=true)
+![](https://github.com/ayeh-khorshidian/ayeh-khorshidian/blob/main/26359.jpg?raw=true)
 **Graduate Researcher | Genomics & Bioinformatics | Johns Hopkins University**
 
 📍 Maryland, USA  
