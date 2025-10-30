@@ -9,7 +9,7 @@
 ---
 
 ## 🧬 Research Interests
-Integrative genomics and molecular bioinformatics, focusing on genome organization, regulatory and structural variation**, and their impact on gene expression, evolution, and human disease.
+Integrative genomics and molecular bioinformatics, focusing on genome organization, regulatory and structural variation, and their impact on gene expression, evolution, and human disease.
 
 ---
 
